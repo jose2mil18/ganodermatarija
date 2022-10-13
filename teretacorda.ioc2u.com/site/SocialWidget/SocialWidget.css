@@ -1,0 +1,8 @@
+#SocialWidget { display: block; clear: both; position: fixed; bottom: -51px; height: 51px; width: 100%;  left: 0px; right: 0px; overflow: visible; font-size: 13px; text-align: center; }
+#ShowHide { position: absolute; top: 0px; left: 0px; height: 20px; width: 72px; line-height: 20px; vertical-align: middle; text-align: center; color: white; background-image: url(http://teretacorda.ioc2u.com/imagesPages/SocialNetworkingIcons/blacktab.png); z-index: 1001; }
+#ShowHide a { width: 60px; color: white; font-weight: bold; text-decoration: none; cursor: pointer; }
+#SocialLinks { position: absolute; top: 19px; left: 0px; height: 32px; width: 100%; overflow: hidden; border-top: solid 1px white; background-color: #000000; text-align: center; vertical-align: middle; z-index: 1000; }
+#SocialLinks a { height: 31px; line-height: 31px; vertical-align: middle; color: #FFFFFF; text-decoration: none; padding: 0 10px 0 10px; }
+#SocialLinks a:hover { text-decoration: underline; }
+#SocialLinks img { height: 24px; border: 0px; vertical-align: middle; }
+#SocialLinks img:hover { opacity: .75; filter: alpha(opacity=75); -moz-opacity: 0.75; }

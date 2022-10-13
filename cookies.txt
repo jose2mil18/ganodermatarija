@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+teretacorda.ioc2u.com	TRUE	/	FALSE	1999999999	SITE	distributor%5FID=392245
+teretacorda.ioc2u.com	TRUE	/	FALSE	1999999999	ASPSESSIONIDCABBTRTD	ONOEAOHDEBHMHKJPHAGGMCCC
+
